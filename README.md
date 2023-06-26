@@ -7,8 +7,8 @@ Software Engineer
 I've been coding for most of my life. It all started when I was young and from a family who couldn't afford a computer. But I was determined to create digital assets. I used to walk a few miles to the library after school everyday to take tutorials on HTMLgoodies.com so I could create my first website. After some some practice I was able to build websites on my free hosting account where I hosted Harry Potter fansites. Then I got a free job working as a PHP programmer making features on my favorite Harry Potter RPG site called hogwartsenchanted.com. Life changes when you get into adulthood and sometimes adult responsibilities come early. My destiny lead me to working as a teenager with a single parent and I drifted deep into the restaurant industry. My desire for money now and paying the bills now overcame the reality of my dream to be a computer science major. When I was 21 I had the opportunity to work for a local racecar manufacturing company as a web developer who helped them stay relevant into a digital age. After that company crumbled due to its own internal struggles, I dove back into the industry that had many many jobs, restaurants. Fast forward some many years COVID shut the world down and I was inspired to chase my dreams again as now there are so many resources on how to break into the industry without a College Degree. So I enrolled into a bootcamp learned the new libraries and team coding skills. Then I started an LLC to do development work for companies under contract. I am currently seeking full time employment as a software engineer so I can progress to the next level in my career and leave the hospitality industry behind.
 
 * 🌍  I'm based in Vail, Colorado
-* ✉️  You can contact me at [todd@dub-low.consulting](mailto:todd@dub-low.consulting)
-* 🧠  I'm learning Python and Cyber Security
+* ✉️  You can contact me at [todd@whitelow.tech](mailto:todd@whitelow.tech)
+* 🧠  I'm learning Networking and C#
 
 ### Skills
 
