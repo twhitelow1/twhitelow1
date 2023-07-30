@@ -4,11 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've been coding for most of my life. It all started when I was young and from a family who couldn't afford a computer. But I was determined to create digital assets. I used to walk a few miles to the library after school everyday to take tutorials on HTMLgoodies.com so I could create my first website. After some some practice I was able to build websites on my free hosting account where I hosted Harry Potter fansites. Then I got a free job working as a PHP programmer making features on my favorite Harry Potter RPG site called hogwartsenchanted.com. Life changes when you get into adulthood and sometimes adult responsibilities come early. My destiny lead me to working as a teenager with a single parent and I drifted deep into the restaurant industry. My desire for money now and paying the bills now overcame the reality of my dream to be a computer science major. When I was 21 I had the opportunity to work for a local racecar manufacturing company as a web developer who helped them stay relevant into a digital age. After that company crumbled due to its own internal struggles, I dove back into the industry that had many many jobs, restaurants. Fast forward some many years COVID shut the world down and I was inspired to chase my dreams again as now there are so many resources on how to break into the industry without a College Degree. So I enrolled into a bootcamp learned the new libraries and team coding skills. Then I started an LLC to do development work for companies under contract. I am currently seeking full time employment as a software engineer so I can progress to the next level in my career and leave the hospitality industry behind.
+I've spent most of my life geeking out over coding. I was just a kid with big dreams but no computer at home when this all started. But who was I to let that stop me? So, I hiked it on over to the library after school every day, eyes glued to HTML tutorials on HTMLgoodies.com, and before I knew it, I was spinning up my own websites.
+
+Got my start hosting Harry Potter fan sites (coolest books in the world for a 10 year old back in 2000, right?). Soon enough, I was messing around with PHP, adding nifty features to my favorite Harry Potter RPG site, HogwartsEnchanted.com. But graduation came and adulthood came with new responsibilities called bills.
+
+That's when I fell into the restaurant game. It wasn't what I had in mind — my dream was always to major in computer science. But hey, life throws curveballs and bills gotta get paid.
+When I was 21, I scored a gig as a web developer for a local race car manufacturing outfit, helping them roll with the digital punches. That ride ended a bit rough due to some company drama, and I was back slinging food at a pizza joint.
+
+Fast forward a few years, COVID shut everything down. On the upside, it gave me a chance to step back and think. Seeing all the resources out there to crack into the industry without a fancy degree, I thought, "Why not?" So, I hit a bootcamp, brushed up on the latest libraries, and got my team coding game on point.
+
+To flex my newfound skills, I set up an LLC and started doing contract work for companies. 
+
+Right now, I'm on the hunt for a full-time gig as a software engineer. I'm ready to level up my career and say "so long" to the restaurant biz for good. 
+
+Check out my current and previous projects on this profile. 
 
 * 🌍  I'm based in Vail, Colorado
 * ✉️  You can contact me at [todd@whitelow.tech](mailto:todd@whitelow.tech)
-* 🧠  I'm learning Networking and C#
+* 🧠  I'm learning Network+ concepts and C# with .NET
 
 ### Skills
 
