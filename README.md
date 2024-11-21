@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I've spent most of my life geeking out over coding. I was just a kid with big dreams but no computer at home when this all started. But who was I to let that stop me? So, I hiked it on over to the library after school every day, eyes glued to HTML tutorials on HTMLgoodies.com, and before I knew it, I was spinning up my own websites.
+I've spent most of my life as a coding geek. When this all started, I was just a kid with big dreams but no computer at home. But who was I to let that stop me? So, I hiked it on over to the library after school every day, eyes glued to HTML tutorials on HTMLgoodies.com, and before I knew it, I was spinning up my own websites.
 
-Got my start hosting Harry Potter fan sites (coolest books in the world for a 10 year old back in 2000, right?). Soon enough, I was messing around with PHP, adding nifty features to my favorite Harry Potter RPG site, HogwartsEnchanted.com. But graduation came and adulthood came with new responsibilities called bills.
+Got my start hosting Harry Potter fan sites (coolest books in the world for a 10 year old back in 2000, right?). Soon enough, I was messing around with PHP, adding cool features to my favorite Harry Potter RPG site, HogwartsEnchanted.com. Soon enough graduation came and adulthood shortly after with new responsibilities called bills.
 
 That's when I fell into the restaurant game. It wasn't what I had in mind — my dream was always to major in computer science. But hey, life throws curveballs and bills gotta get paid.
 When I was 21, I scored a gig as a web developer for a local race car manufacturing outfit, helping them roll with the digital punches. That ride ended a bit rough due to some company drama, and I was back slinging food at a pizza joint.
